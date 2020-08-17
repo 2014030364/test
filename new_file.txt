@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 texto
+=======
+some text
+>>>>>>> c23a6bcd715767461fac555aa7b4a56583db7601
